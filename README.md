@@ -137,7 +137,7 @@ This will redirect to the original URL.
 
 ## 👨‍💻 Author
 
-Your Name
+Nipurn Pandey
 
 ---
 
